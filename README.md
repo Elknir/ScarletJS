@@ -1,9 +1,9 @@
 
 ## Getting Started
 
-1.  Clone the repo:
+1.  Download:
 
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
+        git clone https://github.com/Elknir/ScarletJS.git
 
 2.  Install:
 
